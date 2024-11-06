@@ -1,3 +1,3 @@
-Software Developer @ MiTek Inc. Canada
+Software Developer, C#, Java, C++, HTML
 Primary Experience in Engineering, BIM, and CAD Development
-Currently working on Level 2 and 3 Industrial Automation Software
+Experience on Level 2 and 3 Industrial Automation Software
